@@ -1,0 +1,8 @@
+{
+    "source_audio_path": "/scratch/bliao6/test_audios/F35GZACKjGQ_327.wav",
+    "sample_rate": 32000,
+    "audio_duration_seconds": 9.9845625,
+    "model_checkpoint_at": "/home/bliao6/panns_data/Cnn14_mAP=0.431.pth",
+    "model_checkpoint_sed": "/home/bliao6/panns_data/Cnn14_DecisionLevelMax.pth",
+    "analysis_timestamp": "2025-07-07T18:14:44.403890"
+}
