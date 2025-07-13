@@ -1,0 +1,515 @@
+Label,OriginalCount,SampledCount
+Vehicle,23643,200
+Speech,22535,200
+"Outside, urban or manmade",15173,200
+Animal,14015,200
+Music,12733,200
+Car,11621,200
+"Outside, rural or natural",10865,200
+Train,7999,200
+Bird,5475,200
+"Boat, Water vehicle",5358,200
+Rail transport,4848,200
+"Traffic noise, roadway noise",4456,200
+"Railroad car, train wagon",4232,200
+Field recording,4093,200
+Bus,3875,200
+Motor vehicle (road),3616,200
+Clip-clop,3513,200
+Horse,3499,200
+Ship,3270,200
+"Inside, small room",3186,200
+Aircraft,3153,200
+Wind,3041,200
+Environmental noise,3010,200
+"Bird vocalization, bird call, bird song",2733,200
+Insect,2709,200
+"Inside, public space",2684,200
+"Hubbub, speech noise, speech babble",2631,200
+"Inside, large room or hall",2549,200
+"Chirp, tweet",2169,200
+"Fixed-wing aircraft, airplane",2169,200
+Musical instrument,2030,200
+Truck,2023,200
+"Waves, surf",1942,200
+"Subway, metro, underground",1878,200
+"Domestic animals, pets",1846,200
+Cricket,1838,200
+Stream,1832,200
+Wind noise (microphone),1819,200
+Ocean,1794,200
+White noise,1716,200
+Run,1714,200
+Rain,1683,200
+Crowd,1659,200
+Pink noise,1506,200
+Chatter,1438,200
+Mouse,1398,200
+Waterfall,1342,200
+Engine,1292,200
+Sliding door,1264,200
+Water,1244,200
+Rain on surface,1235,200
+"Walk, footsteps",1216,200
+Raindrop,1208,200
+Fire,1202,200
+"Male speech, man speaking",1188,200
+Silence,1176,200
+Door,1031,200
+Rustle,993,200
+"Trickle, dribble",902,200
+Air brake,847,200
+Clickety-clack,805,200
+Fowl,796,200
+Bicycle,780,200
+"Sailboat, sailing ship",732,200
+Snake,722,200
+Arrow,704,200
+Owl,699,200
+Train wheels squealing,659,200
+Children playing,653,200
+Frog,653,200
+Pour,649,200
+Motorcycle,638,200
+"Female speech, woman speaking",638,200
+Singing,628,200
+Rumble,605,200
+Thunder,603,200
+"Child speech, kid speaking",597,200
+"Chink, clink",592,200
+Liquid,588,200
+"Rowboat, canoe, kayak",584,200
+"Accelerating, revving, vroom",584,200
+"Bee, wasp, etc.",583,200
+"Pigeon, dove",582,200
+Dog,576,200
+"Narration, monologue",574,200
+"Thump, thud",574,200
+Gurgling,561,200
+Cupboard open or close,556,200
+Duck,549,200
+Basketball bounce,533,200
+Thunderstorm,520,200
+Car passing by,496,200
+Coo,490,200
+Idling,482,200
+Hiss,481,200
+Percussion,469,200
+Bell,446,200
+"Motorboat, speedboat",443,200
+Conversation,410,200
+Train horn,396,200
+Church bell,393,200
+Slam,393,200
+Crow,382,200
+Siren,381,200
+Turkey,372,200
+Drum,372,200
+Guitar,369,200
+Patter,367,200
+"Fly, housefly",365,200
+Rustling leaves,352,200
+Bow-wow,343,200
+Microwave oven,342,200
+"Rodents, rats, mice",335,200
+Ping,332,200
+Mechanical fan,331,200
+"Dishes, pots, and pans",326,200
+Change ringing (campanology),321,200
+Tubular bells,314,200
+Plucked string instrument,313,200
+Steam,311,200
+Medium engine (mid frequency),308,200
+"Race car, auto racing",304,200
+Glass,302,200
+"Livestock, farm animals, working animals",296,200
+Orchestra,294,200
+Buzz,294,200
+Choir,293,200
+Air conditioning,289,200
+Drawer open or close,288,200
+Mechanisms,282,200
+Tap,277,200
+Aircraft engine,276,200
+Television,273,200
+Timpani,269,200
+Tick-tock,269,200
+Quack,269,200
+Fireworks,269,200
+Drip,249,200
+Caw,246,200
+Squish,244,200
+Spray,242,200
+Tick,242,200
+Cat,239,200
+Emergency vehicle,238,200
+Eruption,238,200
+Singing bowl,231,200
+"Propeller, airscrew",229,200
+"Neigh, whinny",225,200
+Gush,224,200
+Wood block,222,200
+Gobble,220,200
+Firecracker,218,200
+Goose,215,200
+Gong,215,200
+Scary music,214,200
+Classical music,213,200
+Noise,212,200
+"Cutlery, silverware",209,200
+Drum kit,207,200
+"Chicken, rooster",205,200
+Whale vocalization,205,200
+Chant,205,200
+Reversing beeps,202,200
+Honk,201,200
+"Water tap, faucet",200,200
+Croak,197,197
+"Bird flight, flapping wings",191,191
+Toot,191,191
+Snort,189,189
+Shuffle,187,187
+Fill (with liquid),185,185
+Ambient music,182,182
+"Vehicle horn, car horn, honking",181,181
+Cheering,179,179
+Crackle,170,170
+Chop,169,169
+Heavy engine (low frequency),162,162
+Explosion,160,160
+Slosh,159,159
+Sonar,154,154
+Toilet flush,151,151
+Brass instrument,148,148
+Hammer,148,148
+Hum,148,148
+Police car (siren),148,148
+Keys jangling,147,147
+Sizzle,146,146
+Civil defense siren,145,145
+"Ratchet, pawl",145,145
+"Violin, fiddle",142,142
+Squawk,142,142
+Clock,132,132
+Train whistle,131,131
+Chime,128,128
+Yip,128,128
+"Ice cream truck, ice cream van",127,127
+Mantra,127,127
+Goat,126,126
+Bass drum,125,125
+Wild animals,124,124
+Bowed string instrument,124,124
+Sewing machine,123,123
+Engine knocking,120,120
+Applause,118,118
+Electronic music,118,118
+Sheep,118,118
+Meow,118,118
+Static,117,117
+Hoot,117,117
+Squeal,117,117
+"Fire engine, fire truck (siren)",117,117
+Thunk,116,116
+"Wind instrument, woodwind instrument",116,116
+A capella,115,115
+Bathtub (filling or washing),115,115
+Chopping (food),114,114
+Tambourine,114,114
+Helicopter,113,113
+Pump (liquid),112,112
+Whir,111,111
+Skateboard,111,111
+Vibration,110,110
+Wood,110,110
+Ambulance (siren),109,109
+"Chuckle, chortle",108,108
+Vocal music,107,107
+Rub,107,107
+Whimper (dog),106,106
+Cluck,106,106
+Frying (food),106,106
+Sink (filling or washing),104,104
+"Marimba, xylophone",104,104
+Gears,103,103
+Wind chime,103,103
+Whip,102,102
+Bark,102,102
+Traditional music,100,100
+Jingle bell,100,100
+Male singing,98,98
+Clapping,96,96
+Writing,95,95
+Jet engine,94,94
+Gospel music,94,94
+"Gunshot, gunfire",93,93
+Tools,90,90
+Lawn mower,90,90
+Female singing,90,90
+Snare drum,90,90
+Keyboard (musical),88,88
+Stir,88,88
+Children shouting,86,86
+Piano,86,86
+Mallet percussion,83,83
+Typewriter,82,82
+Biting,81,81
+"Burst, pop",80,80
+Bouncing,79,79
+"Whoosh, swoosh, swish",79,79
+"Power windows, electric windows",78,78
+Boiling,77,77
+Battle cry,77,77
+Acoustic guitar,77,77
+Strum,77,77
+Rattle,76,76
+Glockenspiel,76,76
+Artillery fire,75,75
+Buzzer,74,74
+Alarm,74,74
+Music of Latin America,73,73
+Christian music,72,72
+Sound effect,71,71
+Engine starting,71,71
+Trombone,70,70
+"Splash, splatter",69,69
+Drum roll,69,69
+Bleat,69,69
+Trumpet,69,69
+Opera,68,68
+Mosquito,67,67
+Synthesizer,67,67
+Car alarm,66,66
+Scissors,66,66
+Telephone,65,65
+Whistle,65,65
+Organ,65,65
+Laughter,65,65
+Printer,64,64
+"Chewing, mastication",61,61
+Jazz,60,60
+Radio,60,60
+Machine gun,59,59
+"Canidae, dogs, wolves",59,59
+Creak,59,59
+Mains hum,58,58
+"Crowing, cock-a-doodle-doo",57,57
+"Beep, bleep",56,56
+Soundtrack music,56,56
+Electric guitar,56,56
+Pizzicato,55,55
+Clatter,55,55
+Rock and roll,54,54
+Bagpipes,53,53
+Rock music,53,53
+Power tool,53,53
+Tuning fork,53,53
+Breathing,53,53
+Typing,53,53
+Foghorn,53,53
+Single-lens reflex camera,51,51
+Scrape,51,51
+Folk music,51,51
+Whistling,50,50
+Gasp,50,50
+Fire alarm,49,49
+Whoop,49,49
+Rattle (instrument),49,49
+Computer keyboard,49,49
+Zipper (clothing),48,48
+French horn,48,48
+Jackhammer,48,48
+Chirp tone,47,47
+Cello,47,47
+Crack,47,47
+Maraca,46,46
+Cowbell,46,46
+Crunch,46,46
+"Telephone dialing, DTMF",46,46
+Accordion,45,45
+Child singing,45,45
+Sigh,44,44
+Effects unit,43,43
+Country,43,43
+Theremin,43,43
+Sanding,43,43
+Sine wave,42,42
+Hammond organ,41,41
+Stomach rumble,40,40
+Knock,40,40
+Purr,39,39
+Throbbing,38,38
+Flute,38,38
+Flamenco,37,37
+Sawing,37,37
+"Smoke detector, smoke alarm",37,37
+Coin (dropping),37,37
+Caterwaul,36,36
+New-age music,35,35
+Speech synthesizer,35,35
+Crushing,34,34
+Saxophone,33,33
+"Smash, crash",33,33
+Echo,33,33
+Synthetic singing,33,33
+Breaking,32,32
+Vacuum cleaner,32,32
+Double bass,31,31
+"Crumpling, crinkling",30,30
+Filing (rasp),30,30
+Clarinet,30,30
+"Cattle, bovinae",29,29
+Light engine (high frequency),29,29
+Humming,29,29
+Tearing,29,29
+Zither,29,29
+Snicker,28,28
+Pop music,28,28
+Hands,28,28
+String section,28,28
+Rimshot,27,27
+"Whack, thwack",27,27
+"Roaring cats (lions, tigers)",26,26
+Electric piano,26,26
+Bass guitar,25,25
+Camera,25,25
+Clicking,25,25
+Cash register,25,25
+Heavy metal,25,25
+"Heart sounds, heartbeat",25,25
+Scratch,25,25
+Heart murmur,25,25
+Boom,24,24
+Alarm clock,24,24
+Telephone bell ringing,24,24
+"Air horn, truck horn",24,24
+Electronic organ,23,23
+Shout,23,23
+Middle Eastern music,23,23
+Pulse,23,23
+Harp,23,23
+Whispering,22,22
+Bluegrass,22,22
+Squeak,22,22
+Steelpan,22,22
+Carnatic music,22,22
+Wedding music,22,22
+"Electric shaver, electric razor",22,22
+Cacophony,21,21
+Yodeling,21,21
+Tire squeal,20,20
+Didgeridoo,20,20
+Pulleys,20,20
+Drill,20,20
+Snoring,20,20
+Fusillade,20,20
+Salsa music,19,19
+Shatter,19,19
+Pig,19,19
+Theme music,19,19
+Screaming,19,19
+Electric toothbrush,19,19
+Hiccup,19,19
+"Slap, smack",18,18
+Moo,17,17
+Mandolin,17,17
+Bang,17,17
+Tabla,17,17
+"Baby cry, infant cry",17,17
+Ukulele,16,16
+Roar,16,16
+Lullaby,16,16
+Song,16,16
+Techno,16,16
+Shuffling cards,16,16
+"Jingle, tinkle",16,16
+Ding,16,16
+Vibraphone,16,16
+Wheeze,15,15
+Hair dryer,15,15
+Disco,15,15
+Dance music,15,15
+Splinter,15,15
+Chainsaw,15,15
+Harmonica,15,15
+Yell,14,14
+Beatboxing,14,14
+Banjo,14,14
+Background music,14,14
+Steam whistle,14,14
+House music,14,14
+Ringtone,14,14
+Finger snapping,13,13
+Sitar,13,13
+Cap gun,13,13
+Gargling,13,13
+Whimper,13,13
+Music of Asia,13,13
+Bicycle bell,13,13
+Clang,13,13
+Distortion,12,12
+Scratching (performance technique),12,12
+Pant,12,12
+Electronica,12,12
+Shofar,12,12
+Roll,12,12
+Sampler,11,11
+Blues,11,11
+Blender,11,11
+Baby laughter,11,11
+Flap,11,11
+Harmonic,11,11
+Psychedelic rock,11,11
+Throat clearing,10,10
+Howl,10,10
+Giggle,10,10
+Cough,10,10
+"Crying, sobbing",10,10
+Sniff,10,10
+Christmas music,9,9
+Ding-dong,9,9
+Trance music,9,9
+Babbling,9,9
+Bellow,9,9
+Drum machine,8,8
+Sidetone,8,8
+Plop,8,8
+Sneeze,8,8
+Oink,8,8
+Reverberation,7,7
+Skidding,7,7
+Cymbal,7,7
+Hip hop music,7,7
+Harpsichord,7,7
+Tender music,7,7
+Electronic tuner,7,7
+"Dental drill, dentist's drill",7,7
+"Burping, eructation",6,6
+Ska,6,6
+Video game music,6,6
+Growling,6,6
+Swing music,6,6
+Sad music,5,5
+Music of Bollywood,5,5
+Punk rock,5,5
+Doorbell,5,5
+Belly laugh,4,4
+Hi-hat,4,4
+Dial tone,4,4
+Fart,4,4
+Grunt,4,4
+"Wail, moan",3,3
+Boing,3,3
+Tapping (guitar technique),3,3
+Rapping,3,3
+Busy signal,3,3
+Dubstep,3,3
+Progressive rock,3,3
+Chorus effect,3,3
+Electronic dance music,3,3
+Jingle (music),2,2
+Music for children,2,2
+Groan,2,2
+Toothbrush,1,1
+Exciting music,1,1
+Funny music,1,1
